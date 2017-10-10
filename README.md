@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/3791941/31036931-072760fe-a534-11e7-8cd7-0565bdc2727c.png" width="100" height="60">
+
+  <h3 align="center">Electron: Start to Finish<br></h3>
+</p>
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
