@@ -20,6 +20,11 @@ A basic Electron application needs just these files:
 
 You can learn more about each of these components within the [Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start).
 
+**Table of Contents**
+- [Prerequisites](#prerequisites)
+- [How To Use](#how-to-use)
+- [Resources for Learning Electron](#resources-for-learning-electron)
+
 ## Prerequisites
 
 - [Install Git](#install-git)
@@ -64,7 +69,7 @@ For advanced users: if you later want to install multiple versions of node and n
 Once you've got Node.js installed you will have the `node` and `npm` commands available in your terminal. You should be able to `npm install` packages now, without using `sudo`. If you see errors when installing packages with npm, you may need to [fix your permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions).
 
 
-## To Use
+## How To Use
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
